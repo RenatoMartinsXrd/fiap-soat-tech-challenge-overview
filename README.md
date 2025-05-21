@@ -1,4 +1,4 @@
-# Tech Challenge - Fase 4 - Documentação Geral
+# Tech Challenge - Documentação Geral
 
 Este repositório contém a visão consolidada da arquitetura, domínios, modelagens e infraestrutura do sistema da lanchonete digital.
 
@@ -76,7 +76,7 @@ Este microserviço adota o padrão **Clean Architecture**, com foco em separaç�
 
 ---
 
-## Arquitetura da Infraestrutura e Distrubuição da aplicação
+## ☁️ Arquitetura da Infraestrutura e Distrubuição da aplicação
 
 ![DiagramaInfraAws](https://github.com/user-attachments/assets/9cbe7a70-8885-4fe6-a101-3274576f52d1)
 
@@ -113,6 +113,27 @@ Cada microserviço possui:
 - Coverage mínimo de 80%
 
 ---
+
+## 📋 Repositórios do Projeto
+
+##### fiap-soat-tech-challenge-fase-4-infra-terraform:
+https://github.com/dequevedo/fiap-soat-tech-challenge-fase-4-infra-terraform
+
+##### fiap-soat-tech-challenge-product-api:
+https://github.com/RenatoMartinsXrd/fiap-soat-tech-challenge-product-api
+
+##### fiap-soat-tech-challenge-customer-api:
+https://github.com/RenatoMartinsXrd/fiap-soat-tech-challenge-customer-api
+
+##### fiap-soat-tech-challenge-order-api:
+https://github.com/RenatoMartinsXrd/fiap-soat-tech-challenge-order-api
+
+##### fiap-soat-tech-challenge-payment-api:
+https://github.com/RenatoMartinsXrd/fiap-soat-tech-challenge-payment-api
+
+##### fiap-soat-tech-challenge-fase-3-lambda:
+https://github.com/RenatoMartinsXrd/fiap-soat-tech-challenge-fase-3-identify-customer-lambda
+
 
 ## 👥 Equipe
 
